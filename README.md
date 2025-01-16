@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋
 
 <!--
 **gahyeon-yang/gahyeon-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![gahyeon-yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahyeon-yang&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon-yang&layout=compact&theme=dracula)
