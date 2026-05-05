@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![gahyeon-yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahyeon-yang&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gahyeon-yang&layout=compact&theme=dracula)
